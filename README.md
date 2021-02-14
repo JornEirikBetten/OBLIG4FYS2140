@@ -1,0 +1,2 @@
+# OBLIG4FYS2140
+Kode til oblig 4 FYS2140
